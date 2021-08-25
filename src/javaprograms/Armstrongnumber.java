@@ -15,7 +15,7 @@ public class Armstrongnumber {
 		int cube = 0;
 
 		t = num; // 151
-// Adding line for reference 
+// removing 
 		while (num > 0) {
 			r = num % 10;
 			num=num/10;
