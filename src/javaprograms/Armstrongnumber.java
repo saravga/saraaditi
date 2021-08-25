@@ -15,7 +15,7 @@ public class Armstrongnumber {
 		int cube = 0;
 
 		t = num; // 151
-// Adding 
+// Adding condition check
 		while (num > 0) {
 			r = num % 10;
 			num=num/10;
