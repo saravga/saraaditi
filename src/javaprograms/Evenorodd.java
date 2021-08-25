@@ -1,6 +1,7 @@
 package javaprograms;
 
 public class Evenorodd {
+	// Happy every
 
 	public static void main(String[] args) {
 int num=10;
@@ -15,4 +16,3 @@ int num=10;
 	}
 
 }
-// Happy every
